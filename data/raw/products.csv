@@ -1,0 +1,165 @@
+product_id,product_name,category,unit_price,cost_price,stock_qty,supplier,launch_date,is_active
+P101,Forest Waterproof Jacket,outerwear,220.20,131.29,369,Alpine Supply Co,"March 14, 2025",N
+P102,Storm Waterproof Jacket,Outerwear,190.29,111.93,286,Northern Gear,2022-07-12,FALSE
+P103,Ridge Waterproof Jacket,Outerwear,77.19,46.15,243,BlueRidge Textiles,2023-04-11,0
+P104,Peak Waterproof Jacket,Outer wear,75.01,39.89,268,TrekCo Ltd,2022-10-19,N
+P105,Coastal Insulated Parka,Outerwear,77.66,33.31,332,Northern Gear,2025-02-16,N
+P106,Alpine Insulated Parka,Outerwear,101.39,64.78,62,Alpine supply co.,2025-08-03,N
+P107,Forest Insulated Parka,Outerwear,142.34,91.64,347,Alpine Supply Co,2025-06-17,N
+P108,Coastal Insulated Parka,Outerwear,150.10,52.97,346,Alpine supply co.,2025-04-18,1
+P109,Summit Softshell Jacket,Outerwear,106.65,50.51,384,northern gear,"December 17, 2023",TRUE
+P110,Highland Softshell Jacket,Outerwear,82.09,41.83,272,TrekCo Ltd,2025-04-20,1
+P111,Ridge Softshell Jacket,Outer wear,256.03,102.11,37,BlueRidge Textiles,2023-04-17,TRUE
+P112,Valley Softshell Jacket,Outerwear,133.17,60.27,4,TrekCo Ltd,2023-04-21,Y
+P113,Valley Softshell Jacket,Outerwear,£172.97,87.54,152,BlueRidge Textiles,2025-04-15,FALSE
+P114,Highland Softshell Jacket,Outerwear,83.64,52.94,135,Northern Gear,2024-05-26,FALSE
+P115,Summit Fleece Jacket ,Outerwear,92.72,51.11,186,Summit Wholesale,02/07/2025,1
+P116,Valley Fleece Jacket,Outerwear,181.99,109.06,-23,Alpine Supply Co,2023/12/10,Y
+P117,Coastal Fleece Jacket,Outerwear,139.19,84.04,189,TrekCo Ltd,2023-02-17,FALSE
+P118,Ridge Fleece Jacket ,Outerwear,185.02,111.59,-30,TrekCo Ltd,2025/04/09,Y
+P119,Storm Windbreaker,OUTERWEAR,185.64,66.99,57,Summit Wholesale,20 Sep 2023,TRUE
+P120,Peak Windbreaker ,Outerwear,77.37,31.98,361,Northern Gear,17/06/2024,TRUE
+P121,Peak Windbreaker,Outerwear,135.75,85.97,317,Alpine Supply Co,2023-11-18,N
+P122,Peak Windbreaker,Outerwear,245.63,86.64,146,TrekCo Ltd,2023-07-30,Y
+P123,Forest Windbreaker,Outerwear,92.28,55.06,203,Trekco ltd,11.11.23,N
+P124,Highland Windbreaker,Outerwear,106.06,54.72,123,Summit Wholesale Ltd,05-13-2024,FALSE
+P125,Ridge Down Gilet,Outerwear,223.48,114.04,80,Northern Gear,23 Jul 2024,TRUE
+P126,Summit Down Gilet,Outerwear,225.73,88.50,-5,Summit Wholesale,2023-03-04,FALSE
+P127,Valley Down Gilet,Outerwear,276.21,117.92,23,Alpine Supply Co,2023-01-18,1
+P128,Peak Down Gilet,Outerwear,276.64,113.47,173,BlueRidge Textiles,2023-07-24,N
+P129,Valley Down Gilet,Outerwear,192.11,110.07,179,Northern Gear,2023-01-17,Y
+P130,Highland Trail Runner,Footwear,81.56,44.40,169,TrekCo Ltd,2023-03-24,TRUE
+P131,Alpine Trail Runner,Foot wear,153.16,67.06,334,BlueRidge Textiles,2022-02-03,1
+P132,Alpine Trail Runner,Footwear,81.38,48.96,175,BlueRidge Textiles,2023-12-04,FALSE
+P133,Alpine Trail Runner,Footwear,51.09,23.85,347,TrekCo Ltd,23 Aug 2024,Y
+P134,Storm Trail Runner,Footwear,188.89,82.17,341,Summit Wholesale,2023-10-28,N
+P135,Alpine Walking Boot,Footwear,121.99,44.31,182,BlueRidge Textiles,26 Apr 2022,TRUE
+P136,Peak Walking Boot,Footwear,88.57,57.43,-6,Alpine Supply Company,2025-06-19,TRUE
+P137,Trail Walking Boot,Footwear,93.71,50.52,332,Summit Wholesale,2025-01-21,TRUE
+P138,Highland Walking Boot,Footwear,"168,87",75.04,268,BlueRidge Textiles Ltd,26/06/2022,N
+P139,Highland Walking Boot,footwear,185.57,110.64,334,Alpine Supply Co,2022-05-06,N
+P140,Ridge Hiking Sandal,Footwear,132.84,65.73,59,Summit Wholesale,2022/05/22,FALSE
+P141,Peak Hiking Sandal,Footwear,139.14,194.80,313,BlueRidge Textiles,2025-04-30,FALSE
+P142,Coastal Hiking Sandal,Footwear,177.44,84.81,292,TrekCo Ltd,2025-08-28,TRUE
+P143,Peak Hiking Sandal,Footwear,53.70,31.82,295,BlueRidge Textiles,13/12/2023,Y
+P144,Alpine Hiking Sandal,Footwear,170.39,107.34,268,TrekCo Ltd,2024-11-01,N
+P145,Trail Winter Boot,Foot wear,97.59,61.90,251,BlueRidge Textiles Ltd,2023-11-22,Y
+P146,Peak Winter Boot,Footwear,112.19,66.30,281,Summit Wholesale,2022/02/24,1
+P147,Highland Winter Boot,Footwear,131.45,63.24,258,Alpine supply co.,2024-04-15,0
+P148,Ridge Winter Boot,Foot wear,97.70,53.60,-22,TREKCO LTD,2022-08-27,TRUE
+P149,Coastal Approach Shoe ,Footwear,45.48,18.75,257,Alpine Supply Co,2025-03-16,N
+P150,Storm Approach Shoe,Foot wear,49.69,20.14,398,Alpine Supply Co,05/05/2023,FALSE
+P151,Highland Approach Shoe,Footwear,60.97,39.20,44,Northern Gear,2024-08-30,Y
+P152,Peak Approach Shoe,Footwear,104.27,46.00,271,TrekCo Ltd,2024-03-17,N
+P153,Valley Approach Shoe,Foot wear,184.48,112.67,66,Northern Gear,2023-04-11,TRUE
+P154,Peak Approach Shoe,Footwear,100.09,63.74,5,Blue Ridge Textiles,2025-08-01,TRUE
+P155,Alpine 2-Person Tent,Camping,285.23,103.49,256,Northern Gear,2022-08-15,N
+P156,Coastal 2-Person Tent,Camping,145.19,74.75,191,BlueRidge Textiles,2024-02-02,N
+P157,Alpine 2-Person Tent,Camping,47.53,18.81,85,BlueRidge Textiles Ltd,2024-11-05,1
+P158,Ridge 2-Person Tent,Camping,191.50,69.52,400,Alpine Supply Co,2024-06-07,FALSE
+P159,Highland Sleeping Bag,Camping,310.13,165.49,214,northern gear,2025-02-25,FALSE
+P160,Ridge Sleeping Bag,Camping,239.47,92.72,365,Northern Gear,2024-06-04,Y
+P161,Peak Sleeping Bag,Camping,246.25,117.38,299,TrekCo Ltd,02/06/2024,FALSE
+P162,Coastal Sleeping Bag,Camping,312.22,111.31,-16,Alpine Supply Co,"January 07, 2023",TRUE
+P163,Ridge Sleeping Bag,Camping,133.05,58.71,109,northern gear,09/09/2023,N
+P164,Ridge Sleeping Bag,Camping,173.32,63.13,113,Summit Wholesale Ltd,2023-01-31,Y
+P165,Forest Camping Stove,Camping,155.24,94.21,282,Alpine Supply Co,09-11-2022,N
+P166,Summit Camping Stove,Camping,304.52,181.15,146,Alpine Supply Co,2022-09-25,Y
+P167,Summit Camping Stove,Camping,76.58,35.11,317,Summit Wholesale,2022-04-28,N
+P168,Valley Camping Stove,camping,59.18,31.57,17,Alpine Supply Co,05.12.22,Y
+P169,Storm Camping Stove,Camping,89.58,36.50,48,TrekCo Ltd,2022-08-29,1
+P170,Ridge Camping Stove,Camping,228.17,139.27,93,BlueRidge Textiles,2025-06-10,N
+P171,Coastal Sleeping Mat,Camping,213.87,128.18,171,Summit Wholesale,2024-04-20,FALSE
+P172,Trail Sleeping Mat,Camping,103.25,65.78,70,Northern Gear,2024-09-29,0
+P173,Coastal Sleeping Mat,Camping,74.39,34.20,345,Northern Gear,2024-03-23,N
+P174,Alpine Sleeping Mat,Camping,295.96,163.54,236,TrekCo Ltd,2024-04-22,TRUE
+P175,Trail Sleeping Mat,Camping,48.79,22.01,276,BlueRidge Textiles,2022/06/20,Y
+P176,Peak Head Torch,Camping,52.45,31.44,206,TrekCo Ltd,2024-08-23,0
+P177,Highland Head Torch,Camping,167.14,60.16,100,TrekCo Ltd,"November 26, 2022",Y
+P178,Peak Head Torch,camping,19.75,10.81,146,Summit Wholesale,2023-02-12,0
+P179,Highland Head Torch,Camping,202.06,76.52,37,Alpine Supply Co,2022-11-27,0
+P180,Ridge Head Torch,Camping,96.48,36.25,155,Northern Gear,2024-05-16,0
+P181,Ridge Head Torch,Camping,178.61,75.92,340,BlueRidge Textiles,20/08/2023,1
+P182,Storm Water Filter,Camping,250.06,350.08,103,BlueRidge Textiles,06-27-2024,FALSE
+P183,Summit Water Filter,Camping,80.65,29.84,4,Northern Gear Ltd,2023-04-22,1
+P184,Summit Water Filter,Camping,275.89,386.25,365,Alpine Supply Co,2022-09-02,0
+P185,Highland Water Filter,Camping & Hiking,54.57,25.13,381,TrekCo Ltd,2023-09-21,1
+P186,Coastal Water Filter,camping,301.73,123.89,215,Northern Gear,2023-01-27,1
+P187,Peak Water Filter,Camping,245.90,102.97,169,Alpine Supply Co,2024-07-26,FALSE
+P188,Highland 25L Daypack,Backpacks,89.76,42.24,232,Summit Wholesale,2024-12-15,N
+P189,Summit 25L Daypack,Backpacks,83.68,36.32,277,Northern Gear,18.03.24,N
+P190,Storm 25L Daypack,backpacks,42.60,20.42,384,Alpine Supply Co,06/03/2025,N
+P191,Peak 25L Daypack,Backpacks,158.55,100.12,140,TrekCo Ltd,14 Sep 2022,N
+P192,Peak 45L Trekking Pack,Back packs,129.59,81.48,128,Alpine Supply Co,2023-07-09,0
+P193,Summit 45L Trekking Pack,Backpacks,158.08,88.67,33,Summit Wholesale,2024-07-19,0
+P194,Ridge 45L Trekking Pack,Backpacks,137.65,61.94,359,Alpine Supply Co,2025-05-19,0
+P195,Valley 45L Trekking Pack,Backpacks,97.45,44.91,-24,Alpine Supply Co,2025-07-30,Y
+P196,Valley 45L Trekking Pack ,Backpacks,132.05,84.39,310,Summit Wholesale Ltd,2025-03-26,1
+P197,Forest 45L Trekking Pack,Backpacks,33.74,12.73,127,TrekCo Limited,07 Sep 2023,Y
+P198,Valley Hydration Vest,Backpacks,155.46,85.83,93,Northern Gear,2024-07-13,1
+P199,Highland Hydration Vest,Backpacks,155.62,68.63,62,Summit Wholesale,19/03/2024,1
+P200,Forest Hydration Vest,Backpacks,77.93,47.71,33,TrekCo Ltd,2022-02-06,TRUE
+P201,Ridge Hydration Vest,Backpacks,121.20,56.53,50,Alpine Supply Co,2024-12-15,0
+P202,Valley Duffel Bag,Backpacks,56.14,20.07,359,Summit Wholesale,"February 22, 2025",TRUE
+P203,Storm Duffel Bag,backpacks,121.91,73.34,289,Northern Gear,20.10.24,FALSE
+P204,Alpine Duffel Bag,Backpacks,30.36,12.60,161,summit wholesale,2025-06-04,N
+P205,Coastal Duffel Bag,Backpacks,124.31,78.77,286,TrekCo Ltd,2022-12-08,0
+P206,Valley Duffel Bag,backpacks,"76,24",36.49,172,Northern Gear,2023-08-16,TRUE
+P207,Forest Merino Base Top,Base Layers,25.06,10.46,252,TrekCo Ltd,2024-10-10,0
+P208,Highland Merino Base Top,Base Layers,45.76,18.95,-20,TrekCo Ltd,11.08.24,0
+P209,Trail Merino Base Top,Base Layers,63.17,31.29,86,Northern Gear,2024-02-05,1
+P210,Coastal Merino Base Top,Base Layers,58.72,25.84,232,Summit Wholesale,2022-10-05,FALSE
+P211,Storm Merino Base Top,Base Layers,29.23,13.86,375,Alpine supply co.,25.04.23,TRUE
+P212,Highland Merino Base Top,Base Layers,8.59,4.65,95,Alpine Supply Co,2023-04-17,TRUE
+P213,Highland Thermal Leggings,Base Layers,49.47,19.38,103,Northern Gear,26.08.25,N
+P214,Forest Thermal Leggings,base layers,32.78,12.66,218,Summit Wholesale,2022-06-19,1
+P215,Coastal Thermal Leggings,Base Layers,72.52,26.43,99,Summit Wholesale,2024-06-21,N
+P216,Peak Thermal Leggings,Baselayers,32.56,19.12,400,Northern Gear,2023-03-06,1
+P217,Peak Wool Socks,base layers,64.46,38.81,188,Northern Gear,2023-10-23,N
+P218,Storm Wool Socks,Base Layers,31.11,16.06,246,Northern Gear,01/10/2022,0
+P219,Summit Wool Socks,Base Layers,48.60,30.99,221,Northern Gear,2025-04-03,Y
+P220,Alpine Wool Socks ,Base Layers,22.75,12.97,158,Northern Gear,2024-05-06,0
+P221,Trail Wool Socks,Base Layers,51.75,22.42,27,BlueRidge Textiles,2023-10-27,FALSE
+P222,Peak Liner Gloves,Base Layers,73.35,41.37,241,BlueRidge Textiles,12.10.24,FALSE
+P223,Valley Liner Gloves,Base Layers,44.76,26.70,94,Summit Wholesale,N/A,0
+P224,Highland Liner Gloves,Base Layers,33.22,13.84,259,Alpine Supply Company,2024-11-20,N
+P225,Summit Liner Gloves,base layers,66.90,43.19,153,BlueRidge Textiles,09 Mar 2023,0
+P226,Highland Liner Gloves,Baselayers,42.32,18.63,362,TrekCo Ltd,2022-11-01,0
+P227,Trail Liner Gloves ,Base Layers,16.89,7.17,242,BlueRidge Textiles,2023-06-27,0
+P228,Summit Neck Gaiter ,Base Layers,£42.68,22.09,330,Northern Gear,28/02/2025,TRUE
+P229,Peak Neck Gaiter,Base Layers,41.52,58.13,386,BlueRidge Textiles,06-13-2022,N
+P230,Coastal Neck Gaiter,Base Layers,67.31,25.74,47,Northern Gear,07-20-2022,TRUE
+P231,Summit Neck Gaiter,Base Layers,34.69,19.88,78,Northern Gear,2022-07-07,N
+P232,Trail Neck Gaiter,Base Layers,29.04,12.74,384,BlueRidge Textiles,2023-05-21,0
+P233,Ridge Neck Gaiter ,Base Layers,29.67,11.71,106,Alpine Supply Co,2024-10-01,Y
+P234,Coastal Trekking Poles,Accessories,19.64,11.79,98,TrekCo Ltd,2025-03-28,N
+P235,Peak Trekking Poles,Accessories,66.85,38.19,110,Alpine Supply Co,19.03.22,TRUE
+P236,Storm Trekking Poles,Accessories,35.62,14.90,75,Alpine Supply Co,11/08/2025,TRUE
+P237,Coastal Trekking Poles,Accessories,57.84,23.74,355,TrekCo Ltd,"June 13, 2023",TRUE
+P238,Coastal Beanie,Accessories,9.80,4.13,237,northern gear,2025-07-05,0
+P239,Storm Beanie,Accessories,59.40,25.64,196,Northern Gear Ltd,2022-01-02,Y
+P240,Coastal Beanie,Accesories,£44.87,62.82,250,BlueRidge Textiles,2024-01-05,FALSE
+P241,Valley Beanie,Accessories,22.69,11.72,397,Summit Wholesale,"May 16, 2025",N
+P242,Ridge Beanie,Accessories,£46.12,26.03,183,TrekCo Limited,20 Nov 2024,TRUE
+P243,Highland Sun Hat,Accessories,51.71,32.96,34,BlueRidge Textiles,2024-02-02,TRUE
+P244,Coastal Sun Hat,Accessories,45.38,18.82,229,Summit Wholesale,07/04/2024,FALSE
+P245,Alpine Sun Hat ,Accessories,43.13,24.04,52,TrekCo Ltd,2023-10-20,TRUE
+P246,Peak Sun Hat,Accessories,43.29,27.19,317,Northern Gear,2022-07-21,1
+P247,Ridge Sun Hat,Accessories,58.44,26.71,75,Summit Wholesale,2024-01-26,1
+P248,Alpine Insulated Bottle,Accessories,39.83,15.61,-1,Alpine Supply Co,2023-05-23,Y
+P249,Storm Insulated Bottle,Accessories,13.17,8.39,50,Alpine supply co.,2024-09-30,N
+P250,Forest Insulated Bottle,accessories,12.20,6.88,272,BlueRidge Textiles,2022-01-18,0
+P251,Valley Insulated Bottle,Accessories,22.37,9.20,181,Summit Wholesale,2022-10-02,Y
+P252,Ridge Insulated Bottle,Accessories,19.56,27.38,200,summit wholesale,2024-11-15,TRUE
+P253,Alpine Insulated Bottle,accessories,54.63,35.29,274,Alpine Supply Co,27/06/2022,FALSE
+P254,Summit Dry Bag,accessories,36.54,18.36,276,Alpine Supply Co,2023/12/08,N
+P255,Valley Dry Bag,Accessories,58.23,26.14,121,Alpine Supply Co,2022-12-24,N
+P256,Highland Dry Bag,Accessories,8.76,3.44,398,Summit Wholesale,N/A,N
+P257,Coastal Dry Bag,Accessories,65.43,23.33,170,Trekco ltd,12-20-2024,TRUE
+P258,Highland Map Case,Accesories,19.68,12.54,24,BlueRidge Textiles,2024-09-03,N
+P259,Ridge Map Case,Accesories,7.15,4.64,283,Alpine Supply Co,2022-06-22,1
+P260,Summit Map Case,Accessories,11.10,4.70,309,Northern Gear,2022-08-15,TRUE
+P261,Alpine Map Case,Accessories,30.63,14.63,386,TrekCo Ltd,2025-01-03,0
+P262,Alpine Map Case,Accessories,58.34,28.05,304,Northern Gear Ltd,2025-03-04,FALSE
+P263,Trail Map Case,Accessories,28.95,14.42,102,BlueRidge Textiles,2023-06-12,1
+P106,Alpine Insulated Parka,Outerwear,101.39,64.78,62,Alpine supply co.,2025-08-03,N
