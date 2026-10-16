@@ -39,7 +39,7 @@ P137,trail walking boot,footwear,93.71,50.52,332,summit wholesale,2025-01-21,Tru
 P138,highland walking boot,footwear,168.87,75.04,268,blueridge textiles,2022-06-26,False
 P139,highland walking boot,footwear,185.57,110.64,334,alpine supply company,2022-05-06,False
 P140,ridge hiking sandal,footwear,132.84,65.73,59,summit wholesale,2022-05-22,False
-P141,peak hiking sandal,footwear,139.14,194.8,313,blueridge textiles,2025-04-30,False
+P141,peak hiking sandal,footwear,139.14,,313,blueridge textiles,2025-04-30,False
 P142,coastal hiking sandal,footwear,177.44,84.81,292,trekco ltd,2025-08-28,True
 P143,peak hiking sandal,footwear,53.7,31.82,295,blueridge textiles,2023-12-13,True
 P144,alpine hiking sandal,footwear,170.39,107.34,268,trekco ltd,2024-11-01,False
@@ -80,9 +80,9 @@ P178,peak head torch,camping,19.75,10.81,146,summit wholesale,2023-02-12,False
 P179,highland head torch,camping,202.06,76.52,37,alpine supply company,2022-11-27,False
 P180,ridge head torch,camping,96.48,36.25,155,northern gear,2024-05-16,False
 P181,ridge head torch,camping,178.61,75.92,340,blueridge textiles,2023-08-20,True
-P182,storm water filter,camping,250.06,350.08,103,blueridge textiles,2024-06-27,False
+P182,storm water filter,camping,250.06,,103,blueridge textiles,2024-06-27,False
 P183,summit water filter,camping,80.65,29.84,4,northern gear,2023-04-22,True
-P184,summit water filter,camping,275.89,386.25,365,alpine supply company,2022-09-02,False
+P184,summit water filter,camping,275.89,,365,alpine supply company,2022-09-02,False
 P185,highland water filter,camping,54.57,25.13,381,trekco ltd,2023-09-21,True
 P186,coastal water filter,camping,301.73,123.89,215,northern gear,2023-01-27,True
 P187,peak water filter,camping,245.9,102.97,169,alpine supply company,2024-07-26,False
@@ -127,7 +127,7 @@ P225,summit liner gloves,base layers,66.9,43.19,153,blueridge textiles,2023-03-0
 P226,highland liner gloves,base layers,42.32,18.63,362,trekco ltd,2022-11-01,False
 P227,trail liner gloves,base layers,16.89,7.17,242,blueridge textiles,2023-06-27,False
 P228,summit neck gaiter,base layers,42.68,22.09,330,northern gear,2025-02-28,True
-P229,peak neck gaiter,base layers,41.52,58.13,386,blueridge textiles,2022-06-13,False
+P229,peak neck gaiter,base layers,41.52,,386,blueridge textiles,2022-06-13,False
 P230,coastal neck gaiter,base layers,67.31,25.74,47,northern gear,2022-07-20,True
 P231,summit neck gaiter,base layers,34.69,19.88,78,northern gear,2022-07-07,False
 P232,trail neck gaiter,base layers,29.04,12.74,384,blueridge textiles,2023-05-21,False
@@ -138,7 +138,7 @@ P236,storm trekking poles,accessories,35.62,14.9,75,alpine supply company,2025-0
 P237,coastal trekking poles,accessories,57.84,23.74,355,trekco ltd,2023-06-13,True
 P238,coastal beanie,accessories,9.8,4.13,237,northern gear,2025-07-05,False
 P239,storm beanie,accessories,59.4,25.64,196,northern gear,2022-01-02,True
-P240,coastal beanie,accessories,44.87,62.82,250,blueridge textiles,2024-01-05,False
+P240,coastal beanie,accessories,44.87,,250,blueridge textiles,2024-01-05,False
 P241,valley beanie,accessories,22.69,11.72,397,summit wholesale,2025-05-16,False
 P242,ridge beanie,accessories,46.12,26.03,183,trekco ltd,2024-11-20,True
 P243,highland sun hat,accessories,51.71,32.96,34,blueridge textiles,2024-02-02,True
@@ -150,7 +150,7 @@ P248,alpine insulated bottle,accessories,39.83,15.61,1,alpine supply company,202
 P249,storm insulated bottle,accessories,13.17,8.39,50,alpine supply company,2024-09-30,False
 P250,forest insulated bottle,accessories,12.2,6.88,272,blueridge textiles,2022-01-18,False
 P251,valley insulated bottle,accessories,22.37,9.2,181,summit wholesale,2022-10-02,True
-P252,ridge insulated bottle,accessories,19.56,27.38,200,summit wholesale,2024-11-15,True
+P252,ridge insulated bottle,accessories,19.56,,200,summit wholesale,2024-11-15,True
 P253,alpine insulated bottle,accessories,54.63,35.29,274,alpine supply company,2022-06-27,False
 P254,summit dry bag,accessories,36.54,18.36,276,alpine supply company,2023-12-08,False
 P255,valley dry bag,accessories,58.23,26.14,121,alpine supply company,2022-12-24,False
